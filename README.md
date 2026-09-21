@@ -24,4 +24,4 @@ I build AI that plays the other side of a conversation, such as a patient, a his
 
 Python, TypeScript/React, realtime voice LLM pipelines, multi-agent simulation.
 
-[hyunseungmoon.net](https://hyunseungmoon.net) · [Google Scholar](https://scholar.google.com/citations?user=Igr0SkQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/moon-hyun-seung-047832125/) · mzes0401@kaist.ac.kr
+[hyunseungmoon.net](https://hyunseungmoon.net) · [Google Scholar](https://scholar.google.com/citations?user=Igr0SkQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/hyunseungmoon/) · mzes0401@kaist.ac.kr
