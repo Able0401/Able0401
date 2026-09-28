@@ -2,7 +2,7 @@
 
 Ph.D. student in Industrial Design at KAIST, in the [AI Experience Lab](https://ai-experience-lab.github.io/) with Prof. Tak Yeon Lee. Minor in Data Science.
 
-I build AI agents that take a person's place in a conversation: virtual patients for medical students, synthetic customers for product teams. Then I study whether talking with them helps people learn skills that are hard to teach directly.
+I build AI practice partners: agents that play the other person in a conversation, such as the patient a medical student learns to interview. I study how they should behave so that the person practicing improves.
 
 **Looking for a Summer 2027 research internship in the US.**
 
