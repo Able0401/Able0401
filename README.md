@@ -12,6 +12,7 @@ I build AI practice partners: agents that play the other person in a conversatio
 - **Psychiatric history-taking with LLMs**: an AI interviewer tested in 1,440 simulated dialogues and reviewed by 19 clinicians. CHI 2026. [Paper](https://doi.org/10.1145/3772318.3790970)
 - **CineTalk**: a chatbot for seeing other viewpoints on a film. CUI 2026. [Paper](https://dl.acm.org/doi/10.1145/3816046.3816281)
 - **Creators and chat agents**: how short-form video creators work with conversational agents. CHI 2026 Extended Abstracts. [Paper](https://dl.acm.org/doi/10.1145/3772363.3798927)
+- **Same Behavior, Different Feedback**: how 216 observers judged multi-agent coordination, and why their feedback should be pooled rather than averaged. NeurIPS 2026 Workshop on Interpreting Agent Behavior (IAB), non-archival.
 - One more co-first-authored full paper is under review; title withheld for anonymous review.
 
 ## Ongoing projects
