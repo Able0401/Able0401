@@ -13,6 +13,7 @@ I build AI practice partners: agents that play the other person in a conversatio
 - **CineTalk**: a chatbot for seeing other viewpoints on a film. CUI 2026. [Paper](https://dl.acm.org/doi/10.1145/3816046.3816281)
 - **Creators and chat agents**: how short-form video creators work with conversational agents. CHI 2026 Extended Abstracts. [Paper](https://dl.acm.org/doi/10.1145/3772363.3798927)
 - **Same Behavior, Different Feedback**: how 216 observers judged multi-agent coordination, and why their feedback should be pooled rather than averaged. NeurIPS 2026 Workshop on Interpreting Agent Behavior (IAB), non-archival.
+- **Human-Grounded Representations for Neuro-Symbolic Monitoring of Multi-Agent Coordination**: five dimensions of how people observe multi-agent coordination, proposed as a basis for symbolic representations in monitoring. NeurIPS 2026 Workshop on Neuro-Symbolic Embodied Intelligence (NEmo), non-archival. [Paper](https://openreview.net/forum?id=h8ykpkojQt)
 - One more co-first-authored full paper is under review; title withheld for anonymous review.
 
 ## Ongoing projects
