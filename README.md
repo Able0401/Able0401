@@ -4,8 +4,6 @@ Ph.D. student in Industrial Design at KAIST, in the [AI Experience Lab](https://
 
 I build AI practice partners: agents that play the other person in a conversation, such as the patient a medical student learns to interview. I study how they should behave so that the person practicing improves.
 
-**Looking for a Summer 2027 research internship in the US.**
-
 ## Papers
 
 - **HistoChat**: historical personas for middle-school history classes, studied with 25 students. CSCW 2025, co-first author. [Paper](https://doi.org/10.1145/3757534) · [Code](https://github.com/Able0401/Histochat) · [Demo](https://histochat.vercel.app/)
